@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Development\Arcanoid\Definitions.Arcanoid.h
+C:\Users\DELL\Documents\Unreal Projects\Arcanoid\Source\Arcanoid\ArcanoidGameModeBase.h
+D:\Unreal Engine\UE_4.27_02\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engine\UE_4.27_02\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engine\UE_4.27_02\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engine\UE_4.27_02\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\DELL\Documents\Unreal Projects\Arcanoid\Intermediate\Build\Win64\UE4Editor\Inc\Arcanoid\ArcanoidGameModeBase.generated.h

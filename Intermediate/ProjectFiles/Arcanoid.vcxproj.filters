@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Arcanoid.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0084EF88-BEFF-4ED8-A5FD-7E6D5D1B42B6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arcanoid.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ArcanoidEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E1E70175-9216-40B5-B331-7C1426A8ADFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Arcanoid">
+      <UniqueIdentifier>{76673EA3-5D6A-4A95-B1FA-92F87CBE8DD1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Arcanoid\Arcanoid.Build.cs">
+      <Filter>Source\Arcanoid</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Arcanoid\Arcanoid.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Arcanoid.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\ArcanoidGameModeBase.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\ArcanoidGameModeBase.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\Paddle.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\Paddle.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arcanoid\PaddlePlayerController.cpp">
+      <Filter>Source\Arcanoid</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arcanoid\PaddlePlayerController.h">
+      <Filter>Source\Arcanoid</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
